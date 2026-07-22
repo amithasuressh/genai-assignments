@@ -1,0 +1,19 @@
+Scenario:
+Customer tries to transfer ₹50,000.
+
+Transaction failed.
+
+Error shown: "Transaction could not be completed."
+
+
+Expected discoveries:
+
+1. Daily limit exceeded
+2. Insufficient balance
+3. Bank server unavailable
+4. OTP expired
+5. Network timeout
+6. Beneficiary inactive
+7. Fraud rule triggered
+8. Core banking unavailable
+9. UPI switch unavailable

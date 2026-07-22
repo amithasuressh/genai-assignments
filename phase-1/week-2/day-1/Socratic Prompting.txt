@@ -1,0 +1,20 @@
+I want to build a scalable, data-driven Selenium automation framework.
+
+Do not provide the implementation immediately. Instead, act as a Solution Architect and gather my requirements using the Socratic questioning technique.
+
+Rules:
+
+* Ask exactly one question at a time.
+* Each question should provide multiple-choice options (A, B, C, D...) along with a brief explanation of each option.
+* Wait for my response before asking the next question.
+* Ask only the questions necessary to fully understand my requirements.
+* Do not make assumptions unless I explicitly ask for recommendations.
+
+Once all the requirements are gathered:
+
+1. Summarize my chosen requirements.
+2. Explain the architecture and design decisions.
+3. Provide the recommended project structure.
+4. Implement the complete framework step by step with well-commented Java code.
+5. Explain why each design choice was made and discuss possible alternatives.
+6. Follow industry best practices for Selenium, TestNG, Maven, Page Object Model, and data-driven testing.
